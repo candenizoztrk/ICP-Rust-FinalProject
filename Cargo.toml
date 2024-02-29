@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "src/Events_backend"
+]
+resolver = "2"
